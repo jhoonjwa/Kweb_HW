@@ -1,0 +1,41 @@
+
+
+
+@media only screen and (max-width: 600px) {
+    /* CSS code goes here */
+    body{
+        background-color: skyblue;
+    }
+    h1{
+        color:white;
+    }
+}
+
+@media only screen and (min-width: 600px) and (max-width:900px) {
+    /* CSS code goes here */
+    body{
+        background-color: blue;
+    }
+    h1{
+        color:white;
+    }
+}
+@media only screen and (min-width: 900px) and (max-width:1200px) {
+    /* CSS code goes here */
+    body{
+        background-color: blue;
+    }
+    h1{
+        color:yellow;
+    }
+}
+
+@media only screen and (min-width: 1200px) {
+    /* CSS code goes here */
+    body{
+        background-color:darkblue;
+    }
+    h1{
+        color:yellow;
+    }
+}

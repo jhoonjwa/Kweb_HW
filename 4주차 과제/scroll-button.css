@@ -1,0 +1,15 @@
+.scroll-top[data-shape="9650"] {
+    position: fixed;
+    bottom: 60px;
+    right: 20px;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.scroll-bottom[data-shape="9660"] {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 30px;
+    display: inline-block;
+}
